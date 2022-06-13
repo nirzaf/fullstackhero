@@ -13,7 +13,7 @@
     <ProjectReference Include="..\..\Shared\Shared.DTOs\Shared.DTOs.csproj" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Mapster" Version="7.2.0" />
+    <PackageReference Include="Mapster" Version="7.3.0" />
     <PackageReference Include="Microsoft.Extensions.Caching.Abstractions" Version="6.0.0-rc.2.*" />
     <PackageReference Include="Microsoft.Extensions.Localization" Version="6.0.4.*" />
     <PackageReference Include="FluentValidation" Version="11.0.3" />
